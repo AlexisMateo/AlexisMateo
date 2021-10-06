@@ -14,7 +14,10 @@
 ```yaml
 version: 24.0
 name: Alexis Mateo
-description:
+description: 
+  I'm a passionate and result-driven professional. I'm a follower of continuous 
+  improvement and trusts that we can always become better professionals than we used to be,
+  always in company with the best knowledge, passion, and positive attitude. 
 skill:
  - Programing:
     - nodejs
