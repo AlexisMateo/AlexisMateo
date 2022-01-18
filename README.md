@@ -19,12 +19,10 @@ description:
   improvement and trusts that we can always become better professionals than we used to be,
   always in company with the best knowledge, passion, and positive attitude. 
 skill:
- - Programing:
-    - nodejs
+  Programing:
     - c#
-    - donet
-    - typescript
- - DevOps:
+    - javascript
+  DevOps:
     - Azure Devops
     - GitHub actions
     - Azure ARM template (Bicep)
