@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```yaml
-version: 24.0
+version: 27.0
 name: Alexis Mateo
 description: 
   I'm a passionate and result-driven professional. I'm a follower of continuous 
